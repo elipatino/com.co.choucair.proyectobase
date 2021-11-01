@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-31T23:03:43" hostname="LAPTOP-D8A67TJV" time="85.4">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="85.4"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1e1815ff
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@50ccfad2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@11ed6354
+oct. 31, 2021 6:03:44 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 95.0.4638.54 (d31a821ec901f68d0d34ccdbaea45b4c86ce543e-refs/branch-heads/4638@{#871}) on port 38605
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct. 31, 2021 6:04:03 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@39444b52
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]], When he search for the course Recursos Automatizacion Bancolombia on the choucair academy  platform
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4c6026f0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]], When he search for the course Recursos Automatizacion Bancolombia on the choucair academy  platform, Then he finds the course called resources Recursos Automatizacion Bancolombia
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]], When he search for the course Recursos Automatizacion Bancolombia on the choucair academy  platform, Then he finds the course called resources Recursos Automatizacion Bancolombia
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]], When he search for the course Recursos Automatizacion Bancolombia on the choucair academy  platform, Then he finds the course called resources Recursos Automatizacion Bancolombia]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given than brandon wants to learn automation at the academy Choucair [Brandon open up [Brandon opens the Choucair academy page]], When he search for the course Recursos Automatizacion Bancolombia on the choucair academy  platform, Then he finds the course called resources Recursos Automatizacion Bancolombia]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
